@@ -1,0 +1,30 @@
+*   [33mcommit 0ab5635b20a2e302a2d44c10a4574077914d233f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 66ae4b2 aedb6b5
+[31m|[m [32m|[m Author: wsl187 <wsl187@163.com>
+[31m|[m [32m|[m Date:   Wed Jul 4 15:15:53 2018 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     conflict fixed
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit aedb6b5df523fd8b700151dfa1509075d3e8e4ab[m
+[31m|[m [32m|[m Author: wsl187 <wsl187@163.com>
+[31m|[m [32m|[m Date:   Wed Jul 4 15:11:08 2018 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     AND simple
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 66ae4b2c404f311b49e71909dfcfc361e3cbd520[m
+[32m|[m[32m/[m  Author: wsl187 <wsl187@163.com>
+[32m|[m   Date:   Wed Jul 4 15:12:44 2018 +0800
+[32m|[m   
+[32m|[m       & simple
+[32m|[m 
+* [33mcommit 54a7ade956f31bf92390e1e2bec35b5299513717[m
+[32m|[m Author: wsl187 <wsl187@163.com>
+[32m|[m Date:   Wed Jul 4 14:58:36 2018 +0800
+[32m|[m 
+[32m|[m     branch test
+[32m|[m 
+* [33mcommit f75a8bb2bfeec42f30730c563fd74f6f4f5d510c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+  Author: wsl187 <wsl187@163.com>
+  Date:   Wed Jul 4 14:43:43 2018 +0800
+  
+      Initial commit
